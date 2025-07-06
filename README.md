@@ -1,4 +1,4 @@
-# AI\_Difference\_Analyzer
+# AI Difference Analyzer
 
 **Rhetorical Difference Engine Using a Conceptual OpAmp Approach**
 *By Edward Chalk ([edward@fleetingswallow.com](mailto:edward@fleetingswallow.com))*
