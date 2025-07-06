@@ -35,8 +35,7 @@ The result is a new, hybrid perspective that expresses the *directional differen
 ## Learn More: The Conceptual Theory
 
 Want to understand the theory behind this tool?  
-Check out this blog post:  
-**[The Operational Amplifier of Ideas](https://fleetingswallow.com/operational-amplifier-of-ideas/)**
+Check out this blog post: **[The Operational Amplifier of Ideas](https://fleetingswallow.com/operational-amplifier-of-ideas/)**
 
 It covers:
 - Why the op-amp analogy matters for information analysis
