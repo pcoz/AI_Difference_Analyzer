@@ -5,9 +5,9 @@
 
 ---
 
-## What is AI\_Difference\_Analyzer?
+## What is AI Difference Analyzer?
 
-AI\_Difference\_Analyzer is a unique tool that analyzes two opposing opinions and produces a **synthesized, differentiated output** by focusing on their *qualitative rhetorical differences*. It leverages large language models (LLMs, e.g., OpenAI GPT-4) and is inspired by the concept of the **operational amplifier** ("op-amp") from electronics.
+The AI Difference Analyzer is a unique tool that analyzes two opposing opinions and produces a **synthesized, differentiated output** by focusing on their *qualitative rhetorical differences*. It leverages large language models (LLMs, e.g., OpenAI GPT-4) and is inspired by the concept of the **operational amplifier** ("op-amp") from electronics.
 
 ---
 
