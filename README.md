@@ -32,6 +32,19 @@ The result is a new, hybrid perspective that expresses the *directional differen
 
 ---
 
+## Learn More: The Conceptual Theory
+
+Want to understand the theory behind this tool?  
+Check out this blog post:  
+**[The Operational Amplifier of Ideas](https://fleetingswallow.com/operational-amplifier-of-ideas/)**
+
+It covers:
+- Why the op-amp analogy matters for information analysis
+- What “identifying the difference between inputs” means in practical terms
+- How this approach leads to a more creative and actionable qualitative computing paradigm
+
+---
+
 ## Flexible Output: Adapt Your Analysis to Any Context
 
 The difference engine doesn’t just give you one answer.
